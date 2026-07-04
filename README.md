@@ -8,7 +8,7 @@ Selected as a **National Finalist** in Prodyssey, a national-level Product Manag
 Prodyssey is a case-based Product Management competition that challenges participants to solve real-world business and product problems using structured frameworks, market analysis, and data-driven decision-making — evaluated by industry professionals and academic experts.
 
 ## Certificate
-![Certificate of Achievement](certificate.png)
+![Certificate of Achievement]
 
 **Awarded to:** Mohd Anas
 **Position:** National Finalist
